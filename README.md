@@ -1,3 +1,3 @@
 # 211129_Despliegue-AWS
-Programa
+Programacion web
 Repositorio de despliegue de pagina web estatica en AWS.
